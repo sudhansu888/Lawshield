@@ -1,0 +1,22 @@
+{
+  "name": "lawshield-fullstack",
+  "version": "1.0.0",
+  "description": "LawShield - AI Legal Counsel & Women Safety Assistant (Full-Stack)",
+  "private": true,
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "start": "npm --prefix backend start",
+    "build": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint"
+  },
+  "keywords": [
+    "legaltech",
+    "womens-safety",
+    "ai-legal-assistant",
+    "webrtc",
+    "fullstack"
+  ],
+  "author": "LawShield Team",
+  "license": "ISC"
+}
